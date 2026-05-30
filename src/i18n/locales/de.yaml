@@ -434,34 +434,34 @@ social_callout_linkedin_10: "Während Google daran arbeitet, seine Rolle als Gat
 # translated as comments; they will automatically fall back to English.
 # ============================================================================
 
-# Meta
+Meta
 
 # Hero
 
-# What Google is doing
+Was Google tut
 
-# Who this hurts
+Wen das schädigt
 
-# Advanced flow
+Erweiterter Ablauf
 
-# Precedent
+Präzedenzfall
 
-# Objections
+Einwände
 
-# Fight back
+Gegenwehr leisten
 
-# Voices section
+Stimmen-Bereich
 
-# Signatories section
+Unterzeichner-Bereich
 
 # CTA banners
 
-# Closing
+Schlusswort
 
-# Social share messages (rotated randomly; {url} is replaced at build time)
+Nachrichten zum Teilen in sozialen Medien (werden zufällig rotiert; {url} wird beim Erstellen der Website automatisch ersetzt)
 
-# Social button labels
+Beschriftungen Social-Media-Buttons
 
-# Footer
+Fußzeile
 
-# Shared site strings (also used by CTA/footer on other pages)
+Zentrale Website-Textbausteine (werden ebenfalls in CTA-Bannern und Footern anderer Seiten verwendet)
